@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, My name is Victor
 
-<!--
-**Savoxero/Savoxero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring backend developer from Poland, currently diving deep into Golang and working my way into the tech industry. I'm all about consistency, discipline, and long-term goals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals (2025)
+
+- ✅ Learn Golang fundamentals (syntax, tools, testing)
+- 🚧 Build small backend projects (APIs, CLI tools)
+- 🧱 Contribute to open-source once I'm confident
+- 🧾 Document my journey publicly to stay accountable
+
+---
+
+## ⚙️ Tech I'm Learning
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📓 Learning Log
+
+🗓 I log my progress and notes here:  
+➡️ (https://github.com/Savoxero/GolangLearningLog) 
+
+---
+
+## 🛠 Planned Projects
+
+> Coming soon as I advance in Go:
+
+- 🧪 REST API with Go (CRUD, JWT auth)
+- ⚙️ CLI task manager
+- 🌐 Simple blog backend with PostgreSQL
+
+---
+
+## 📬 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/
+wiktor-rafalowicz-9554a4348
+
+- 📧 Email: marbxlmar@gmail.com
+
+---
+
+[![Savoxero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Savoxero)](https://github.com/Savoxero/github-readme-stats)
+
