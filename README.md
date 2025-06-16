@@ -40,8 +40,7 @@ Aspiring backend developer from Poland, currently diving deep into Golang and wo
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/
-wiktor-rafalowicz-9554a4348
+- 💼 LinkedIn: www.linkedin.com/in/wiktor-rafalowicz-9554a4348
 
 - 📧 Email: marbxlmar@gmail.com
 
