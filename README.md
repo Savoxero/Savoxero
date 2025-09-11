@@ -1,6 +1,8 @@
-# 👋 Hi, My name is Victor
+# 👋 Hi, My name is Wiktor 
 
 Aspiring backend developer from Poland, currently diving deep into Golang and working my way into the tech industry. I'm all about consistency, discipline, and long-term goals.
+
+_Currently I'm working as a waiter while juggling weekly school with it, progress has been slow but transferring into a tech career and working within systems and backends has always been my dream_
 
 ---
 
@@ -10,6 +12,7 @@ Aspiring backend developer from Poland, currently diving deep into Golang and wo
 - 🚧 Build small backend projects (APIs, CLI tools)
 - 🧱 Contribute to open-source once I'm confident
 - 🧾 Document my journey publicly to stay accountable
+- ☆ Get hired for at least one freelance work
 
 ---
 
