@@ -78,7 +78,7 @@ I currently work as a **waiter**, balancing shifts with self-taught backend deve
 - 📧 Email: marbxlmar@gmail.com
 
 ---
-# **Thank you for reading thus far ^^ **
+# **Thank you for reading thus far ^^**
 
 [![Savoxero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Savoxero)](https://github.com/Savoxero/github-readme-stats)
 
