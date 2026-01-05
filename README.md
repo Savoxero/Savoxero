@@ -62,18 +62,13 @@ Features:
 ---
 
 ## 🧩 Background
-I currently work as a **waiter**, balancing shifts with self-taught backend development and school every other week. The pace is slow but deliberate — because I’m building something that lasts.  
-
-Transitioning into tech isn’t a hobby; it’s a structured plan. Every bug I fix and every project I refine is a brick in that plan.  
-
+I currently work as a **waiter**, balancing shifts with self-taught backend development and school every other week. The pace is slow but deliberate — because i want to build something that lasts.
 ---
 
 ## 📓 Learning Log
 
 🗓 I log my progress and notes here:  
 ➡️ (https://github.com/Savoxero/GolangLearningLog) 
-
-
 ---
 
 ## 📬 Connect With Me
@@ -83,6 +78,7 @@ Transitioning into tech isn’t a hobby; it’s a structured plan. Every bug I f
 - 📧 Email: marbxlmar@gmail.com
 
 ---
+# **Thank you for reading thus far ^^ **
 
 [![Savoxero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Savoxero)](https://github.com/Savoxero/github-readme-stats)
 
