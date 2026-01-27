@@ -63,7 +63,7 @@ Learning:
 ---
 
 ## 🧩 Background
-I currently work as a **waiter**, balancing shifts with self-taught backend development and school every other week. The pace is slow but deliberate — because i want to build something that lasts.
+I currently work as a **Factory worker in a car part factory** used to work as a waiter in a 3 star hotel. I am trying to balance work with self-taught backend development and school every other week. The pace is slow but deliberate — because i want to build something that lasts.
 ---
 
 ## 📓 Learning Log
