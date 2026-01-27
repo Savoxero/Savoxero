@@ -13,11 +13,11 @@ I’m the type who’d rather understand how something *works* before copying it
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 - Build production-level backend APIs in Go  
 - Learn system design fundamentals and concurrency  
 - Contribute to open-source Go projects  
-- Land my first backend engineering role  
+- Land my first backend engineering role (could be literally anything)
 
 ---
 
@@ -40,24 +40,25 @@ Each project I build teaches one new concept — not everything at once.
 ## 🛠️ Tech Stack (In Progress)
 - **Languages**: Go, a bit of Python  
 - **Tools**: Git, GitHub, Linux, VS Code  
-- **Concepts**: APIs, error handling, data structures, state management  
+- **Concepts**: APIs, error handling, data structures, state management, code design/architecture 
 
 ---
 
-## ⚙️ Current Project: WoopCalc
+## ⚙️ Current Project: Tokarpdo
 A command-line calculator built in Go.  
 
 Features:
-- Continuous calculations  
-- History tracking  
-- Modular package structure  
-- Clean error handling  
+- add, delete, modify, print
+- intuitive design with best effort semantics
+- json persistence(tasks get loaded from a file upon launch, saved into the program upon exit)
+- ASCII formatted output
+--- 
 
-**Practicing:**
-- Packages and modularity  
-- Input validation  
-- Slice and array behavior  
-- Iterative problem-solving  
+Learning: 
+- concurrency
+- package managment
+- external features(stuff that does not impact the code logic, prints output out of the saved data)
+- system design 
 
 ---
 
